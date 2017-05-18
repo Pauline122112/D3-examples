@@ -1,0 +1,23 @@
+{
+  "name": "d3-examples",
+  "version": "1.0.0",
+  "description": "practicing how to use D3",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauline122112/D3-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pauline122112/D3-examples/issues"
+  },
+  "homepage": "https://github.com/Pauline122112/D3-examples#readme"
+}
